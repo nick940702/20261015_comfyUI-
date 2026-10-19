@@ -4,7 +4,7 @@
 
 ## 生成圖
 
-![生成圖](images/ComfyUI_00004.png)
+![生成圖](images/cxcx.png)
 
 ## 完整工作流截圖
 
